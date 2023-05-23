@@ -29,6 +29,7 @@ nav {
 }
 .logo {
   width: 140px;
+  padding: 20px 0;
 }
 nav ul li {
   display: inline-block;
